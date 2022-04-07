@@ -3,7 +3,7 @@
 def jogo():
     import random as rd
     print('Jogo de advinhação')
-    print('\n******************')
+    print('\n*******************')
 
 
     #total_de_tentativas = 3 --> Vou botar esta variável antes do "for"
